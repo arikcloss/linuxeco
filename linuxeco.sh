@@ -40,6 +40,7 @@ flatpak install -y flathub org.darktable.Darktable
 flatpak install -y flathub org.kde.kdenlive
 flatpak install -y flathub org.flameshot.Flameshot
 flatpak install -y flathub com.obsproject.Studio
+flatpak install -y md.obsidian.Obsidian
 
 # 5. Node.js Installation (via Official Nodesource LTS Repository)
 echo "-> Installing Node.js (LTS)..."
